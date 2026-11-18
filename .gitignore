@@ -1,6 +1,1 @@
-.venv/
-venv/
-__pycache__/
-.streamlit/secrets.toml
-usuarios.json
 
